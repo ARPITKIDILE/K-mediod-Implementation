@@ -26,7 +26,6 @@ Java, Netbeans
 2. Size of dataset can be user defined.
 3. File input is provided to insert dataset.
 4. Initial and Final cost is displayed.
-
 ```
 **************************************
 
