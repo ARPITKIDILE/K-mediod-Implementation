@@ -43,6 +43,6 @@ Java, Netbeans
 ***************************************
 ### *Authors*:
 
-- **Arpit Kidile** *Initial Work* [ARPITKIDILE](https://github.com/ARPITKIDILE)
+- **Arpit Kidile** [ARPITKIDILE](https://github.com/ARPITKIDILE)
 
 ***************************************
